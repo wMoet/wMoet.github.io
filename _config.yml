@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "wMoet"
+title                    : "冰镇香槟"
 title_separator          : "-"
 name                     : &name "wMoet"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "wMoet/wMoet.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "wMoet"
   pronouns         : # example: "she/her"  
   bio              : "四娃说这次回去要给外婆买空调"
   location         : "太阳与地球"
-  employer         : "抽象工作室"
+  employer         : "抽象工作室编辑部"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #example: "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "wMoet"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
