@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "来自己掰开"
+title: "掰开"
 author_profile: true
 redirect_from: 
   - /about/
