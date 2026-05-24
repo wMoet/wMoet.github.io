@@ -87,9 +87,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: '来自己掰开'    
   conferences:
-    title: 'Conference Papers'
+    title: '面包、茶和果酱'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
