@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "wMoet"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.png"
   bio    : "四娃说这次回去要给外婆买空调。"
   links:
     - label: "Website"
