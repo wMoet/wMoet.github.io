@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+他们去恰烧烤。你说的他们首先是谁？去哪里恰？什么时候去的？我一问三不知！就我都没去，你都知道的，我不知道你一直在那问，是不是脑淤血啊？就别人不知道的事情你一直在那问，我叫你说你又说不归意，说不清楚。你是不是自己的语言表达能力特别差还是自己的脑回路有问题吗？我问你恰什么吗恰恰恰，哎呦真的，怎么会有这么傻的人啊，你咋又在打这拐喽
